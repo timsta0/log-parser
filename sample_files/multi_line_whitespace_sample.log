@@ -1,0 +1,19 @@
+           only_first=True
+           mypackage.show_report=
+2021-03-19 11:39:38,918 - mf - INFO - Makefile version: makefile 2.1.2 (/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/mypackage)
+2021-03-19 11:39:38,919 - mf - DEBUG - Makefile launch command: /usr/local/bin/python3.7 /Users/my_home/space/sources/mypackage/docs/test_examples/mini_test_lm.py mypackage.show_report
+2021-03-19 11:39:39,286 - lm_factory - DEBUG - Selecting type of LM
+2021-03-19 11:39:39,286 - lm_factory - DEBUG - Setting 'VirtualMachineProvider' class
+2021-03-19 11:39:39,286 - mf - DEBUG - Combinations count: 1, Pool size: 50
+2021-03-19 11:40:42,590 - mf - DEBUG - Execution of 'Windows 7' finished after 0:01:03s.
+2021-03-19 11:40:42,600 - mf - DEBUG - No XMLs found.
+2021-03-19 11:40:42,600 - mf - INFO - Parameters:
+           only_file=True
+           mypackage.show_report=
+2021-03-19 11:40:42,601 - formatter - INFO - Processing visualisation
+2021-03-19 11:40:42,603 - formatter - DEBUG - File "/Users/my_home/space/sources/mypackage/docs/test_examples/results/makefile_result.xml" was loaded
+2021-03-19 11:40:42,605 - mf - INFO - HTML report: /Users/my_home/space/sources/mypackage/docs/test_examples/results/result.html
+2021-03-19 11:40:42,942 - mf - DEBUG - Exit code: 0
+2021-03-20 11:40:42,600 - mf - INFO - Parameters:
+           only_first=True
+           mypackage.show_report=
