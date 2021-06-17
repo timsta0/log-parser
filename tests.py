@@ -59,11 +59,11 @@ class LogParserTests(ParserTest):
         "Parsing file with wrong extension."
         self.assertRaises(FormatNotSupported, self.notLogFile.parse)
 
-    def test06_format_not_supported_error(self):
+    def test08_format_not_supported_error(self):
         "Parsing not supported log format should raise an error."
         self.assertRaises(FormatNotSupported, self.notSupportedProcessor.parse)
 
-    def test07_entries_not_parsed(self):
+    def test09_entries_not_parsed(self):
         "Get entries without parsing should raise an error."
         self.assertRaises(NotParsedError, self.oneLineProcessor.get_entries)
 
